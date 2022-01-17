@@ -1,1 +1,1 @@
-alert("Hello!1212121");
+import '../styles/styles.css'
